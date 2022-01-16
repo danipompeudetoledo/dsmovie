@@ -11,9 +11,6 @@ import javax.persistence.Table;
 public class Score {
 	
 	@EmbeddedId
-
-
-	
 	private ScorePK id = new ScorePK();
 	
 	
